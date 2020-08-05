@@ -5,4 +5,4 @@ This repository contains notebooks that show solutions for projects carried out 
 - [Guided Project: Exploring Ebay Car Sales Data in Germany](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
 - [Guided Project: Predicting Bike Rentals](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Predicting%20Bike%20Rentals/Basics.ipynb)
 - [Guided Project: Visualizing Gender Gap in College Degrees](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Basics.ipynb)
-- [Guided Project: Visualizing Earnings based on College Majors](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb]
+- [Guided Project: Visualizing Earnings based on College Majors](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb)
