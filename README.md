@@ -8,3 +8,4 @@ This repository contains notebooks that show my solutions for projects carried o
 - [Guided Project: Visualizing Earnings based on College Majors](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb)
 - [Guided Project: Predicting Car Prices using Various Features](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Predicting%20Car%20Prices/Basics.ipynb)
 - [Guided Project: Predicting House Sale Prices](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices/Basics.ipynb)
+- [Guided Project: Answering Business Questions using SQL - Analysing Music Record Sales](https://github.com/additivegenerative/Dataquest-Projects/blob/master/Guided%20Project_%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb)
